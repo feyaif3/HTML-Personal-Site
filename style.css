@@ -1,0 +1,56 @@
+@font-face {
+    font-family: lato;
+    src: url(Fonts/lato.light.ttf);
+}
+
+body{
+    background-color: #2C3333;
+}
+
+hr{
+    background-color: #bfd1d4;
+    border-style: none;
+    border-top: dotted;
+    border-width: 2px;
+    
+}
+
+a{
+    font-size: medium;
+    color: #E7F6F2;
+    font-family: lato;
+}
+p{
+    color: #E7F6F2;
+    font-family: lato;
+}
+table{
+    color: #E7F6F2;
+    font-family: lato;
+}
+
+h1{
+    color: #E7F6F2;
+    font-family: lato;
+}
+
+h2{
+    color: #E7F6F2;
+    font-family: lato;
+}
+h3{
+    color: #E7F6F2;
+    font-family: lato;
+}
+h4{
+    color: #E7F6F2;
+    font-family: lato;
+}
+ol{
+    color: #E7F6F2;
+    font-family: lato;
+}
+li{
+    color: #E7F6F2;
+    font-family: lato;
+}
