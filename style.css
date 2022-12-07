@@ -19,6 +19,9 @@ a{
     font-size: medium;
     color: #E7F6F2;
     font-family: lato;
+    text-decoration: none;
+    cursor: pointer;
+    content: "|";
 }
 p{
     color: #E7F6F2;
