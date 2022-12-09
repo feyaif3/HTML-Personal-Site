@@ -1,3 +1,4 @@
+/*-----------TAG SELECTORS-----------*/
 @font-face {
     font-family: lato;
     src: url(Fonts/lato.light.ttf);
@@ -57,3 +58,5 @@ li{
     color: #E7F6F2;
     font-family: lato;
 }
+
+/*-----------CLASS SELECTORS-----------*/
